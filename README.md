@@ -1,0 +1,1 @@
+An app to bring AI and blockchain infrastructure to architectural design process
